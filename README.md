@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Ayush9213
-- 👀 I’m interested in Mathematics and computing
-- 🌱 I’m currently learning php,python,js.
-- 📫 How to reach me...
-- 📫 via... ayushduhoon.in
-- ⚡Fun fact: ... I am a school student...
+👋 Hi, I’m @Ayush9213!
+
+🧮 Passionate about Maths and coding, always exploring new challenges.
+
+🌱 Currently honing my skills in PHP, Python, and JavaScript for exciting projects.
+
+🎓 High school student with a love for problem-solving.
+
+📫 Reach me at ayushduhoon.in for collaborations or discussions.
+
+⚡Fun fact: Balancing school with my love for maths and coding keeps me inspired!
+
+
 
 <!---
 Ayush9213/Ayush9213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
