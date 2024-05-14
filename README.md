@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ayush9213!
+👋 Hi, I’m @Ayush9213!(AYUSH DUHOON)!
 
 🧮 Passionate about Maths and coding, always exploring new challenges.
 
