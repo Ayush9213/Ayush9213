@@ -10,6 +10,8 @@
 
 ⚡Fun fact: Balancing school with my love for maths and coding keeps me inspired!
 
+✨ [MY WEBSITE](https://ayushduhoon.in)
+
 
 
 <!---
